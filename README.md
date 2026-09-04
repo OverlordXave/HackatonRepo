@@ -1,3 +1,18 @@
+## Command-Line Guessing Games
+
+The repository includes an interactive menu with two games:
+
+- Number guessing: guess a random number from 1 to 100 and follow the higher/lower hints.
+- Word guessing: guess letters in a randomly selected GitHub term.
+
+Run the games from the repository root:
+
+```bash
+python3 src/number_game.py
+```
+
+Choose `1` for the number game, `2` for the GitHub word game, or `3` to exit.
+
 <div align="center">
 
 # 🎉 Congratulations OverlordXave! 🎉
